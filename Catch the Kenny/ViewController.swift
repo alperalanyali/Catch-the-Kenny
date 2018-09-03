@@ -7,6 +7,9 @@
 //
 
 import UIKit
+
+class ViewController: UIViewController {
+    
     @IBOutlet weak var kenny1: UIImageView!
     @IBOutlet weak var kenny2: UIImageView!
     @IBOutlet weak var kenny3: UIImageView!
